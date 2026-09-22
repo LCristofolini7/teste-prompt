@@ -1,7 +1,7 @@
 ## Teste - Engenheiro de Prompt — Monest
-#### Candidato: Lucas Cristofolini
+## Candidato: Lucas Cristofolini
 
-## 1. Fluxo de conversa
+## 1. Fluxo de Conversa
 
 ![Fluxo de Conversa - MIA](FluxoConversaMIA.png)
 ---
@@ -67,7 +67,7 @@ com a pessoa certa e validar a identidade dela.
 - Nunca revele dados do cliente antes da validação ser concluída com sucesso.
 ```
 
-### Prompt renderizado
+### Prompt Renderizado
 
 Dados usados:
 ```json
@@ -136,7 +136,7 @@ com a pessoa certa e validar a identidade dela.
 
 ---
 
-## 3. Cenários de teste
+## 3. Cenários de Teste
 
 ### Cenário 1 — Documento válido (caminho feliz)
 
@@ -185,7 +185,7 @@ com a pessoa certa e validar a identidade dela.
 
 ---
 
-## 4. Gestão de riscos
+## 4. Gestão de Riscos
 
 | Risco | Como a Mia deve lidar |
 |---|---|
@@ -202,7 +202,7 @@ com a pessoa certa e validar a identidade dela.
 
 ---
 
-## 5. Refinamento pós-lançamento (30% de abandono na validação)
+## 5. Refinamento Pós-lançamento (30% de abandono na validação)
 
 
 1. **Diagnosticar onde exatamente ocorre o abandono:** Verificar exatamente em qual etapa da conversa ocorre o abandono ou onde causa a estranheza por parte do cliente que o faz abandonar a conversa.
